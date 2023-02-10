@@ -1,0 +1,37 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAQFVVVVVVVQRAVVVVVVVVBEBVVVVUVFQEQFUiUlRUVARAVUJSVFVUBEBVQlJUVVQEQFVCUlVUVQRAVUJSVVRVBEBVIlJUVFQEQFVVVVRUVARAVVVVVVVVBEBVVVVVVVUEAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bolsa1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAIERERERERAIgREREREREAiBERERCQkICIERVRUJCQgIgRCVFQkRCAiBEJUVCREICIEQlRURCRAIgRCVFREJEAiBEVUVCQkICIEREREJCQgIgREREREREAiBEREREREQCAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bolsa2"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAsKqqqqqqqguwqqqqqqqqC7Cqqqqrq6sLsKrMrKurqwuwqrysq6qrC7CqvKyrqqsLsKq8rKqrqguwqrysqquqC7CqzKyrq6sLsKqqqqurqwuwqqqqqqqqC7CqqqqqqqoLAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bolsa3"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAkGZmZmZmZgmQZmZmZmZmCZBmZmZpaWkJkGaIaGlpaQmQZphoaWZpCZBmmGhpZmkJkGaYaGZpZgmQZphoZmlmCZBmiGhpaWkJkGZmZmlpaQmQZmZmZmZmCZBmZmZmZmYJAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bolsa4"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAEREBAAAAABAVVVFAAAAAEBVVFUEAAAAQFVVVQQAAAAAVFVVRQAAAABUVUVVBAAAAEBVVVUEAAAAQEVVVQQAAABAVVVVBAAAAEBVVVQEAAAAVFVVVQQAAABUVVRFAAAAQFVVVQQAAABARVVVBAAAAEBVVUUAAAAAAEREBAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cheeto"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAUAAAAAAAAAAAAAAEUABQQAAAAAAAAAAAUEAAAABAAAAAAAAABAAAAAAABQAAAFAAQABQQAAAAAAAAAAAAAAAAAVAAABQAAAAAAAAAAVAAAUAAAAAAAAAAAQABEAAAAAABQAAAAAAUAAAAAAAAEAAAAAAAAAAAAAABQAAAAUAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "polvo de cheetos"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
